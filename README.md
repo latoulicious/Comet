@@ -8,5 +8,5 @@
 <br>
 
 <p align="center">
-    Placeholder text
+    Work in progress
 </p>
