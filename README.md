@@ -1,14 +1,21 @@
-<h1 align="center">Comet</h1>
+# Rock Bot is PowerFull Advance Discord Bot
 
-<br>
+Rock bot have many feature like Music System With Filters , Buttons , Moderation , etc
 
-<p align="center">
-<a><img width="30%" src="https://i.ibb.co/XzY5VVS/comet.png" alt="comet" border="0"></a>
-</p>
+## How to Self Host
 
-<br>
-<br>
+Download Code From Here and Extract it then open cmd in your directory then type `npm install ` hit enter
+then open config.json
 
-<h2 align="center">
-    <b><i>Work in progress</i></b>
-</h2>
+```json
+"token": "YOUR_BOT_TOKEN",
+"prefix": "BOT_PREFIX",
+```
+
+then type
+
+```bash
+ node index.js
+```
+
+run bot and enjoy
