@@ -7,11 +7,10 @@
 </p>
 
 <br>
-<br>
 
-<h4 align="center">noun<br>
+<p align="center">noun<br>
 <i>a celestial object consisting of a nucleus of ice and dust and, when near the sun, a “tail” of gas and dust particles pointing away from the sun.</i>
-</h4>
+</p>
 
 <h2 align="center">
     <b><i>Work in progress</i></b>
