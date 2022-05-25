@@ -8,8 +8,8 @@
 
 <br>
 
-<p align="center">noun<br>
-<i>a celestial object consisting of a nucleus of ice and dust and, when near the sun, a “tail” of gas and dust particles pointing away from the sun.</i>
+<p align="justify"><b>noun<b>
+<i>A Celestial object consisting of a nucleus of ice and dust and, when near the sun, a “tail” of gas and dust particles pointing away from the sun.</i>
 </p>
 
 <h2 align="center">
