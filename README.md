@@ -8,9 +8,9 @@
 
 <br>
 
-<h5 align="center">
+<h3 align="center">
     <b><i>Work in progress</i></b>
-</h5>
+</h3>
 
 <br>
 
