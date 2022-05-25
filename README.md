@@ -8,11 +8,9 @@
 
 <br>
 
-<p align="justify"><b>noun<b></p>
-<br>
-<p>
+<p align="justify">
 <i>
-A Celestial object consisting of a nucleus of ice and dust and, when near the sun, a “tail” of gas and dust particles pointing away from the sun.
+Comets are frozen leftovers from the formation of the solar system composed of dust, rock, and ices. They range from a few miles to tens of miles wide, but as they orbit closer to the Sun, they heat up and spew gases and dust into a glowing head that can be larger than a planet. This material forms a tail that stretches millions of miles.
 </i>
 </p>
 
