@@ -19,3 +19,15 @@
 </i>
 </p>
 
+<br>
+
+# Usage
+
+```git clone https://github.com/latoulicious/Comet.git```
+
+
+``` npm install ```
+
+``` node index.js / node . ```
+
+
