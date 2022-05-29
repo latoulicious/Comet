@@ -1,8 +1,9 @@
-# Rock Bot is PowerFull Advance Discord Bot
+<h1 align="center">Comet</h1>
 
-Rock bot have many feature like Music System With Filters , Buttons , Moderation , etc
+<p align="center">
+  <img width="256" src="https://i.ibb.co/XzY5VVS/comet.png" alt="Logo">
+</p>
 
-## How to Self Host
 
 <br>
 
